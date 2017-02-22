@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="title_post_list">
+                <source>home.welcome</source>
+                <target>Home</target> 
+            </trans-unit> 
+            <trans-unit id="title_post_list2">
+            	<source>home.charity</source>
+            	<target>Charity</target>
+            </trans-unit> 
+            <trans-unit id="title_post_list3">
+            	<source>home.products</source>
+            	<target>Products</target>
+            </trans-unit>
+            <trans-unit id="title_post_list4">
+            	<source>home.login</source>
+            	<target>Login</target>
+            </trans-unit>
+            <trans-unit id="title_post_list5">
+            	<source>home.register</source>
+            	<target>Register</target>
+            </trans-unit>
+            <trans-unit id="title_post_list50">
+                <source>home.registerproduct</source>
+                <target>Register product</target>
+            </trans-unit>
+             <trans-unit id="title_post_list6">
+                  <source>home.admin</source>
+                  <target>User Administrating</target>
+            </trans-unit>
+            <trans-unit id="title_post_list20">
+                <source>home.adminpreces</source>
+                <target>Product Administration</target>
+            </trans-unit>
+            <trans-unit id="title_post_list7">
+            	<source>home.home2</source>
+            	<target>About us</target>
+            </trans-unit>
+            <trans-unit id="title_post_list8">
+            	<source>home.home3</source>
+            	<target>We are a company that offers its customers a phone charger that can be recharged by solar energy. Chargers are available in various models with different technical characteristics and design solutions. One of the prices of products are also included in Total (5 euros), which is donated to charity. After the buyer so it desires amount is possible to increase, in this case the donation is transferred to an amount determined by the customer himself. The purchase, the customer has the opportunity not only to regulate the donation amount, but also to choose a charity project, which will be transferred the money.</target>
+            </trans-unit>
+            <trans-unit id="title_post_list9">
+            	<source>register.register</source>
+            	<target>REegister new user</target>
+            </trans-unit>
+            <trans-unit id="title_post_list10">
+            	<source>register.name</source>
+            	<target>Name</target>
+            </trans-unit>
+            <trans-unit id="title_post_list12">
+            	<source>register.lastname</source>
+            	<target>Last name</target>
+            </trans-unit>
+            <trans-unit id="title_post_list13">
+            	<source>register.username</source>
+            	<target>Username</target>
+            </trans-unit>
+            <trans-unit id="title_post_list14">
+            	<source>register.passsword</source>
+            	<target>Password</target>
+            </trans-unit>
+            <trans-unit id="title_post_list15">
+            	<source>register.email</source>
+            	<target>E-mail</target>
+            </trans-unit>
+            <trans-unit id="title_post_list16">
+            	<source>register.Role</source>
+            	<target>Role</target>
+            </trans-unit>
+            <trans-unit id="title_post_list17">
+            	<source>register.add</source>
+            	<target>Add new user</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

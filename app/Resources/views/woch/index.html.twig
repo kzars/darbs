@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+<div>
+	<div class="center">
+
+		<h3>{{ 'home.home2' | trans}}</h3>
+	<p>{{ 'home.home3' | trans}}
+
+		{# to change locale of current page only#}
+{% set params = app.request.attributes.get('_route_params')|merge(app.request.query.all()) %}
+{% set arParams = params|merge({'_locale': 'lv'}) %}
+{% set enParams = params|merge({'_locale': 'en'}) %}
+{%if app.request.locale == "en"%}
+ <a href="{{ path(app.request.attributes.get('_route'), arParams) }}">Latviski</a>
+{%else%}
+ <a href="{{ path(app.request.attributes.get('_route'), enParams) }}">Englis</a>
+{%endif%}
+	</p>
+</div>
+	{% image '@AppBundle/Resources/public/images/product.png' %}
+        <img src="{{ asset_url }}" alt="product" class="img-responsive center-block" />
+  	{% endimage %}
+</div>
+        {% endblock %}

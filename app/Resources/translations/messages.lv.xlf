@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="lv" target-language="lv" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="title_post_list">
+                <source>home.welcome</source>
+                <target>Sākums</target> 
+            </trans-unit> 
+            <trans-unit id="title_post_list2">
+            	<source>home.charity</source>
+            	<target>Ziedojumi</target>
+            </trans-unit> 
+            <trans-unit id="title_post_list3">
+            	<source>home.products</source>
+            	<target>Produkti</target>
+            </trans-unit>
+            <trans-unit id="title_post_list4">
+            	<source>home.login</source>
+            	<target>Ienākt</target>
+            </trans-unit>
+            <trans-unit id="title_post_list5">
+            	<source>home.register</source>
+            	<target>Reģistrēties</target>
+            </trans-unit>
+            <trans-unit id="title_post_list50">
+                <source>home.registerproduct</source>
+                <target>Reģistrēt produktu</target>
+            </trans-unit>
+            <trans-unit id="title_post_list6">
+            	<source>home.admin</source>
+            	<target>Lietotāju Administrēšana</target>
+            </trans-unit>
+            <trans-unit id="title_post_list20">
+                <source>home.adminpreces</source>
+                <target>Preču Administrēšana</target>
+            </trans-unit>
+            <trans-unit id="title_post_list7">
+            	<source>home.home2</source>
+            	<target>Par mums</target>
+            </trans-unit>
+            <trans-unit id="title_post_list8">
+            	<source>home.home3</source>
+            	<target>Mēs esam uzņēmums, kas piedāvā saviem klientiem telefona lādētājus, kurus ir iespējams uzlādēt ar saules enerģiju. Ir pieejami dažādi lādētāju modeļi ar dažādiem tehniskiem parametriem un dizaina risinājumiem. Viena produkta cenā ir iekļauta arī summa (5 eiro), kas tiek ziedota labdarībai. Pēc pircēja vēlmes šo summu ir iespējams arī palielināt, šajā gadījumā ziedošanai tiek nodota summa, kuru nosaka pats pircējs. Pirkšanas brīdī klientam ir iespēja ne tikai regulēt ziedojuma apjomu, bet arī izvēlēties labdarības projektu, kuram tiks pārskaitīta nauda.</target>
+            </trans-unit>
+             <trans-unit id="title_post_list9">
+            	<source>register.register</source>
+            	<target>Reģistrēt jaunu lietotāju</target>
+            </trans-unit>
+            <trans-unit id="title_post_list11">
+            	<source>register.name</source>
+            	<target>Vārds</target>
+            </trans-unit>
+            <trans-unit id="title_post_list12">
+            	<source>register.lastname</source>
+            	<target>Uzvārds</target>
+            </trans-unit>
+            <trans-unit id="title_post_list13">
+            	<source>register.username</source>
+            	<target>Lietotāja vārds</target>
+            </trans-unit>
+            <trans-unit id="title_post_list14">
+            	<source>register.passsword</source>
+            	<target>Parole</target>
+            </trans-unit>
+            <trans-unit id="title_post_list15">
+            	<source>register.email</source>
+            	<target>E-pasts</target>
+            </trans-unit>
+            <trans-unit id="title_post_list16">
+            	<source>register.Role</source>
+            	<target>Tiesības</target>
+            </trans-unit>
+            <trans-unit id="title_post_list17">
+            	<source>register.add</source>
+            	<target>Pievienot jaunu lietotāju</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>
